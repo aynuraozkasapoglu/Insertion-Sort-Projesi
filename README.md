@@ -21,4 +21,4 @@ Dizi sıralandıktan sonra 18 sayısı average case kapsaına girer.
 [3, 5, 7, 8, 2, 9, 4, 15, 6]
 [2, 3, 5, 7, 8, 9, 4, 15, 6]
 [2, 3, 4, 5, 7, 8, 9, 15, 6]
-https://
+https://https://github.com/aynuraozkasapoglu/Insertion-Sort-Projesi.git
